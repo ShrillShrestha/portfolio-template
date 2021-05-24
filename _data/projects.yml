@@ -1,21 +1,19 @@
-- title: Social Good!
-  event: MLH Fellowship Explorer Sprint 5
-  date: Fall 2020 - Batch 1
+- title: VSCode-GitHub-Projects
+  event: MLH Fellowship Explorer Sprint 0
+  page-name: https://devpost.com/software/vscode-github-projects
 
-- title: Developer Tools!
-  event: MLH Fellowship Explorer Sprint 4
-  date: Fall 2020 - Batch 1
-
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3
-  date: Fall 2020 - Batch 1
-
-- title: Fun Game
-  event: MLH Fellowship Explorer Sprint 2
-  date: Fall 2020 - Batch 1
-  page-name: Sprint2
-
-- title: Flash Card Generator
+- title: PoseRunner
   event: MLH Fellowship Explorer Sprint 1
-  date: Fall 2020 - Batch 1
-  page-name: Sprint1
+  page-name: https://devpost.com/software/poserunner-v7pbir
+
+- title: DocVerifier
+  event: MLH Fellowship Explorer Sprint 2
+  page-name: https://devpost.com/software/docverifier
+
+- title: Machunni
+  event: Personal Project in development
+  page-name: https://github.com/ShrillShrestha/Machuuni
+
+- title: GRE-Vocabulary-Builder
+  event: Personal Project in development
+  page-name: https://github.com/ShrillShrestha/GRE-Vocabulary-Builder

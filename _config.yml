@@ -1,13 +1,11 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Shrill Shrestha"
+email: shrill.shrestha@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Just Exploring!!!
 # Root directory for your portfolio. On GitHub Pages, this is the name of your repository.
-baseurl: "/portfolio-template"
+baseurl: "/home"
 # Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
-url: "https://mlh-fellowship.github.io" 
+url: "https://shrillshrestha.github.io" 
 twitter_username: mlhacks
 github_username: mlh-fellowship
 form_url: "https://formspree.io/f/xrgodpqo"

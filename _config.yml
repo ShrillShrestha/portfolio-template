@@ -3,7 +3,7 @@ email: shrill.shrestha@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just Exploring!!!
 # Root directory for your portfolio. On GitHub Pages, this is the name of your repository.
-baseurl: "/home"
+baseurl: "/"
 # Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
 url: "https://shrillshrestha.github.io" 
 twitter_username: mlhacks
